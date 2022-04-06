@@ -1,0 +1,7 @@
+   0 nano script.sh
+   1 chmod +x /tmp/script.sh
+   2 chmod +x script.sh
+   3 ./script.sh
+   4 export_file script.sh
+   5 export_file /tmp/file.txt
+   6 history > /tmp/history_mironova.txt
